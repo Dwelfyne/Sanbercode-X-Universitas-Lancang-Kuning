@@ -1,5 +1,5 @@
 Data Peserta Sanbercode Bootcamp Laravel Web Dev
 1. Nama: Dany Arkan
 2. Email: danyarkan2003@gmail.com
-3. Akun Github: Dwelfyne
+3. Akun Github: https://github.com/Dwelfyne
 4. Akun Telegram: Dany Arkan
