@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>Daftar Sanbercode</h1>
+    <h1>Daftar Sanberbook</h1>
     <h3>Sign Up Form</h3>
     <form action="/welcome" method="POST">
         @csrf
