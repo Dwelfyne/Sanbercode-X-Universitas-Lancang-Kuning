@@ -1,0 +1,58 @@
+body{
+    background-image: url(../picture/Eyes.jpg);
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-optical-sizing: auto;
+}
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+li{
+    display: inline;
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    height: 50px;
+}
+main{
+    background-color: white;
+    margin: 7% 12% 8%;
+    border-top: 3px solid aqua;
+    border-bottom: solid aqua;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+article{
+    border-bottom: 2px solid aqua;
+    margin-top: 10px;
+}
+
+footer{
+    background-color: aquamarine;
+    padding: 7px;
+    text-align: center;
+}
+
+h5{
+    color: black;
+    text-align: center;
+}
